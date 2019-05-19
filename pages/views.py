@@ -14,7 +14,3 @@ def about(request):
 
 def login(request):
     return render(request, 'pages/login.html')
-
-
-def listings(request):
-    return render(request, 'pages/listings.html')
