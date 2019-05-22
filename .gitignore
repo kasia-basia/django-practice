@@ -4,6 +4,7 @@
 
 /static
 /media
+/.vscode
 
 ### Django ###
 *.log
